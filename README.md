@@ -9,5 +9,10 @@ Klára teikningu
 ## Dagbók
 ### 26.4
 Sighvatur - Mætti <br />
-Davíð - Mætti
+Gerði github geymslu <br />
+Davíð - Mætti <br />
+Gerði teikningu
 ### 28.4
+Sighvatur - <br />
+<br />
+Davíð - <br />
