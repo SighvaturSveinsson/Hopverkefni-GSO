@@ -9,7 +9,7 @@ Klára teikningu
 ## Dagbók
 ### 26.4
 Sighvatur - Mætti <br />
-Gerði github geymslu <br />
+Gerði github geymslu og hjálpaði með teikningu<br />
 Davíð - Mætti <br />
 Gerði teikningu
 ### 28.4
