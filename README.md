@@ -1,12 +1,13 @@
-# Hopverkefni-GSO
+# Hópverkefni-GSÖ
 
 ## Verkefna áætlun
-26.4 Klára teikningu
+### 26.4 
+Klára teikningu
 
 
 
 ## Dagbók
 ### 26.4
-Sighvatur - Mætti
+Sighvatur - Mætti <br />
 Davíð - Mætti
 ### 28.4
