@@ -1,0 +1,35 @@
+INSERT INTO utgefandi (nafn),
+VALUES 
+("Columbia Records"),
+("Equal Vision Records"),
+("Reprise Records"),
+
+INSERT INTO tegund (nafn),
+VALUES 
+("Progressive rock"),
+("Progressive rock"),
+("Punk rock"),
+
+INSERT INTO flokkur (nafn),
+VALUES 
+("Hljómsveit"),
+("Hljómsveit"),
+("Hljómsveit"),
+
+INSERT INTO flytjandi (nafn, aldur, faedingardagur, danardagur),
+VALUES 
+("Coheed & Cambria", 22, 1995, NULL),
+("The Dear Hunter", 12, 2005, NULL),
+("Green Day", 31,1986, NULL)
+
+INSERT INTO hofundur (nafn, aldur, faedingardagur, danardagur),
+VALUES 
+("Claudio Sanchez", 39, March 12 1978, NULL),
+("Casey Crescenzo", 33, December 19, 1983, NULL),
+("Billie joe armstrong", 45, February 17, 1972, NULL)
+
+INSERT INTO diskur (nafn, utgafuar)
+VALUES 
+("Good Apollo I'm Burning Star IV Volume One: From Fear Through the Eyes of Madness", 2005),
+("Act IV: Rebirth in Reprise",2015),
+("American Idiot",2004),
