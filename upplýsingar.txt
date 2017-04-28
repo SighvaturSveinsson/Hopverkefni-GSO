@@ -3,15 +3,27 @@ VALUES
 ("Columbia Records"),
 ("Equal Vision Records"),
 ("Reprise Records"),
+("Capitol Records"),
+("Columbia Records"),
+("Evil Ink"),
+("Columbia Records"),
 
 INSERT INTO tegund (nafn),
 VALUES 
-("Progressive rock"),
-("Progressive rock"),
+("Alternative rock"),
+("Symphonic rock"),
 ("Punk rock"),
+("Heavy metal"),
+("Progressive rock"),
+("Alternative rock"),
+("Progressive rock"),
 
 INSERT INTO flokkur (nafn),
 VALUES 
+("Hljómsveit"),
+("Solo"),
+("Hljómsveit"),
+("Hljómsveit"),
 ("Hljómsveit"),
 ("Hljómsveit"),
 ("Hljómsveit"),
@@ -20,16 +32,56 @@ INSERT INTO flytjandi (nafn, aldur, faedingardagur, danardagur),
 VALUES 
 ("Coheed & Cambria", 22, 1995, NULL),
 ("The Dear Hunter", 12, 2005, NULL),
-("Green Day", 31,1986, NULL)
+("Green Day", 31,1986, NULL),
+("Avenged Sevenfold", 18, 1999, NULL),
+("Coheed & Cambria", 22, 1995, NULL),
+("Thank you scientist", 8, 2009, NULL),
+("Pink Floyd", 49, 1965, 2014)
 
 INSERT INTO hofundur (nafn, aldur, faedingardagur, danardagur),
 VALUES 
 ("Claudio Sanchez", 39, March 12 1978, NULL),
-("Casey Crescenzo", 33, December 19, 1983, NULL),
-("Billie joe armstrong", 45, February 17, 1972, NULL)
+("Casey Crescenzo", 33, December 19 1983, NULL),
+("Billie joe armstrong", 45, February 17 1972, NULL),
+("Matt shadows", 35 ,July 31 1981 ,NULL),
+("Claudio Sanchez", 39, March 12 1978, NULL),
 
 INSERT INTO diskur (nafn, utgafuar)
 VALUES 
 ("Good Apollo I'm Burning Star IV Volume One: From Fear Through the Eyes of Madness", 2005),
 ("Act IV: Rebirth in Reprise",2015),
 ("American Idiot",2004),
+("The Stage",2016),
+("In Keeping Secrets of Silent Earth: 3",2003),
+("The wall", 1978)
+
+INSERT INTO lag (nafn)
+VALUES
+("Welcome home"),
+("Ten speed (Of god's blood and burial)")
+("Apollo I: The writing writer")
+("The suffering")
+
+("Waves"),
+("The squeaky wheel"),
+("King of swords (Reversed)"),
+("If all goes well")
+
+("American Idiot")
+("Jesus of suburbia"),
+("Holiday")
+("Wake me up when september ends"),
+
+("The Stage"),
+("God damn"),
+("Angels"),
+("Exist")
+
+("In Keeping Secrets of Silent Earth: 3")
+("Three evils")
+("The camper Velorium I: Faint of hearts")
+("A favor house atlantic")
+
+("Another brick in the wall")
+("Another brick in the wall pt2")
+("Comfortly numb")
