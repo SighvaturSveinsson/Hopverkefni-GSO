@@ -4,8 +4,8 @@
 ### 26.4 
 Klára teikningu 
 (kláruðum) og byrjuðu á því að gera SQL töflurnar og
-###
-Finna upplýsingar
+### 28.4
+Finna upplýsingar <br />
 Klára að gera SQL skipanir
 
 ## Dagbók
