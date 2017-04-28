@@ -45,6 +45,7 @@ VALUES
 ("Billie joe armstrong", 45, February 17 1972, NULL),
 ("Matt shadows", 35 ,July 31 1981 ,NULL),
 ("Claudio Sanchez", 39, March 12 1978, NULL),
+("Roger Waters", 73, 6 September 1943, NULL)
 
 INSERT INTO diskur (nafn, utgafuar)
 VALUES 
@@ -55,33 +56,34 @@ VALUES
 ("In Keeping Secrets of Silent Earth: 3",2003),
 ("The wall", 1978)
 
-INSERT INTO lag (nafn)
+INSERT INTO lag (nafn, lengd)
 VALUES
-("Welcome home"),
-("Ten speed (Of god's blood and burial)")
-("Apollo I: The writing writer")
-("The suffering")
+("Welcome home", 6:14),
+("Ten speed (Of god's blood and burial)",3:46)
+("Apollo I: The writing writer", 5:15)
+("The suffering", 3:43)
 
-("Waves"),
-("The squeaky wheel"),
-("King of swords (Reversed)"),
-("If all goes well")
+("Waves", 4:12),
+("The squeaky wheel", 4:35),
+("King of swords (Reversed)", 5:07),
+("If all goes well", 4:41)
 
-("American Idiot")
-("Jesus of suburbia"),
-("Holiday")
-("Wake me up when september ends"),
+("American Idiot", 2:54)
+("Jesus of suburbia", 9:08),
+("Holiday", 3:52)
+("Wake me up when september ends", 4:45),
 
-("The Stage"),
-("God damn"),
-("Angels"),
-("Exist")
+("The Stage", 8:32),
+("God damn", 3:41),
+("Angels", 5:40),
+("Exist", 15:41)
 
-("In Keeping Secrets of Silent Earth: 3")
-("Three evils")
-("The camper Velorium I: Faint of hearts")
-("A favor house atlantic")
+("In Keeping Secrets of Silent Earth: 3", 8:13)
+("Three evils", 5:11)
+("The camper Velorium I: Faint of hearts", 5:22)
+("A favor house atlantic", 3:53)
 
-("Another brick in the wall")
-("Another brick in the wall pt2")
-("Comfortly numb")
+("In the flesh", 4:15)
+("Run like hell", 4:20)
+("Another brick in the wall pt2", 3:49)
+("Comfortly numb", 6:23)
