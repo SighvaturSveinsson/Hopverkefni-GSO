@@ -16,5 +16,10 @@ Davíð - Mætti <br />
 Gerði teikningu og töflur í SQL
 ### 28.4
 Sighvatur - Mætti<br />
+Fann upplýsingar<br />
+Davíð - Mætti<br />
+Gerði SQL skipanir
+### 3.5
+Sighvatur - Mætti<br />
 <br />
 Davíð - Mætti<br />
