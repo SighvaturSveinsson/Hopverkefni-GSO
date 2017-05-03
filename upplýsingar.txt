@@ -45,6 +45,7 @@ VALUES
 ("Billie joe armstrong", 45, February 17 1972, NULL),
 ("Matt shadows", 35 ,July 31 1981 ,NULL),
 ("Claudio Sanchez", 39, March 12 1978, NULL),
+("Salvatore Marrano", 23, July 12 1994, NULL),
 ("Roger Waters", 73, 6 September 1943, NULL)
 
 INSERT INTO diskur (nafn, utgafuar)
