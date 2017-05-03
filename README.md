@@ -7,6 +7,10 @@ Klára teikningu
 ### 28.4
 Finna upplýsingar <br />
 Klára að gera SQL skipanir
+### 3.5
+Gerða SQL skipanir
+### 5.5
+Klára verkefnið
 
 ## Dagbók
 ### 26.4
@@ -21,5 +25,7 @@ Davíð - Mætti<br />
 Gerði SQL skipanir
 ### 3.5
 Sighvatur - Mætti<br />
-<br />
+Gerði SQL skipanir<br />
 Davíð - Mætti<br />
+Gerði SQL skipanir
+### 5.5
