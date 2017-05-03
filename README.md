@@ -8,7 +8,7 @@ Klára teikningu
 Finna upplýsingar <br />
 Klára að gera SQL skipanir
 ### 3.5
-Gerða SQL skipanir
+Gera SQL skipanir
 ### 5.5
 Klára verkefnið
 
