@@ -29,3 +29,8 @@ Gerði SQL skipanir<br />
 Davíð - Mætti<br />
 Gerði SQL skipanir
 ### 5.5
+Sighvatur - Mætti<br />
+Gerði SQL skipanir<br />
+Davíð - Mætti<br />
+Gerði SQL skipanir
+#### Kláruðum verkefnið
